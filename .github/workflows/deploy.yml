@@ -12,7 +12,7 @@ jobs:
       MONGODB_CLUSTER_ADDRESS: practica-gha.sy2pd.mongodb.net
       MONGODB_USERNAME: Alonso
       MONGODB_PASSWORD: H52VAlpXT2nrHRXb
-      PORT: 
+      PORT: 8080
     environment: testing
     runs-on: ubuntu-latest
     steps:
